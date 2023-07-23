@@ -1,4 +1,7 @@
-# EmoSet Dataset README
+# EmoSet: A Large-scale Visual Emotion Dataset with Rich Attributes (ICCV2023)
+## [Jingyuan Yang](https://jingyuanyy.github.io/), Qirui Huang, Tingting Ding, [Dani Lischinski](https://www.cs.huji.ac.il/~danix/), [Daniel Cohen-Or](https://danielcohenor.com/publications/), and [Hui Huang*](https://vcc.tech/~huihuang)
+## [ProjectPage](https://jingyuanyy.github.io/) | [Dataset](https://jingyuanyy.github.io/) | [Paper](https://arxiv.org/pdf/2307.07961.pdf)
+
 
 ## File Structure
 
