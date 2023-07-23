@@ -4,7 +4,7 @@
 
 ## Abstract
 
-![Teaser image](./images/teaser3-01.jpg)
+![Teaser image](./image/teaser3-01.jpg)
 
 ## File Structure
 
