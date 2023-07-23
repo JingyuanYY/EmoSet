@@ -2,7 +2,7 @@
 
 [Jingyuan Yang](https://jingyuanyy.github.io/), Qirui Huang, Tingting Ding, [Dani Lischinski](https://www.cs.huji.ac.il/~danix/), [Daniel Cohen-Or](https://danielcohenor.com/), and [Hui Huang*](https://vcc.tech/~huihuang)
 
-We propose a large-scale visual emotion dataset with rich attributes, named EmoSet. With 3.3 million images in total (EmoSet-3.3M), 118,102 of these images are carefully labeled (EmoSet-118K). EmoSet is labeled with 8 emotion categories (amusement, anger, awe, contentment, disgust, excitement, fear, and sadness) in Mikels' emotion model and 6 proposed emotion attributes (brightness, colorfulness, scene type, object class, facial expression, and human action). We believe EmoSet will bring some key insights and encourage further research in visual emotion analysis and understanding.
+We propose a large-scale visual emotion dataset with rich attributes, named EmoSet. With 3.3 million images in total (EmoSet-3.3M), 118,102 of these images are carefully labeled with machines and human annotators (EmoSet-118K). EmoSet is labeled with 8 emotion categories (amusement, anger, awe, contentment, disgust, excitement, fear, and sadness) in Mikels' emotion model and 6 proposed emotion attributes (brightness, colorfulness, scene type, object class, facial expression, and human action). We believe EmoSet will bring some key insights and encourage further research in visual emotion analysis and understanding.
 
 ## [Project Page](https://jingyuanyy.github.io/) | [EmoSet-118K](https://jingyuanyy.github.io/) | [EmoSet-3.3M](https://jingyuanyy.github.io/) | [Paper](https://arxiv.org/pdf/2307.07961.pdf) | [Supp](https://arxiv.org/pdf/2307.07961.pdf)
 ![Teaser image](./image/teaser3-01.jpg)
