@@ -4,7 +4,7 @@
 
 We propose a large-scale visual emotion dataset with rich attributes, named EmoSet. With 3.3 million images in total (EmoSet-3.3M), 118,102 of these images are carefully labeled with machines and human annotators (EmoSet-118K). EmoSet is labeled with 8 emotion categories (amusement, anger, awe, contentment, disgust, excitement, fear, and sadness) in Mikels' emotion model and 6 proposed emotion attributes (brightness, colorfulness, scene type, object class, facial expression, and human action). We believe EmoSet will bring some key insights and encourage further research in visual emotion analysis and understanding.
 
-## [Project Page](https://jingyuanyy.github.io/) | [EmoSet-118K](https://jingyuanyy.github.io/) | [EmoSet-3.3M](https://jingyuanyy.github.io/) | [Paper](https://arxiv.org/pdf/2307.07961.pdf) | [Supp](https://arxiv.org/pdf/2307.07961.pdf)
+### [Project Page](https://jingyuanyy.github.io/) | [EmoSet-118K](https://jingyuanyy.github.io/) | [EmoSet-3.3M](https://jingyuanyy.github.io/) | [Paper](https://arxiv.org/pdf/2307.07961.pdf) | [Supp](https://arxiv.org/pdf/2307.07961.pdf)
 ![Teaser image](./image/teaser3-01.jpg)
 
 ## File Structure
@@ -153,3 +153,15 @@ Each attribute in `ATTRIBUTES_MULTI_CLASS` and `ATTRIBUTES_MULTI_LABEL` generate
 ### Required Python Packages
 
 Ensure your Python environment includes the necessary packages: torch, torchvision, os, json, PIL.
+
+### Citation
+
+If you think this project is helpful, please feel free to leave a star or cite our paper:
+```
+@ inproceedings {EmoSet,
+  title={EmoSet: A Large-scale Visual Emotion Dataset with Rich Attributes},
+  author={Yang, Jingyuan and Huang, Qirui and Ding, Tingting and Lischinski, Dani and Cohen-Or, Daniel and Huang, Hui},
+  booktitle = {ICCV},
+  year={2023}
+}
+```
