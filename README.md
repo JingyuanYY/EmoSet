@@ -2,9 +2,9 @@
 ## [Jingyuan Yang](https://jingyuanyy.github.io/), Qirui Huang, Tingting Ding, [Dani Lischinski](https://www.cs.huji.ac.il/~danix/), [Daniel Cohen-Or](https://danielcohenor.com/), and [Hui Huang*](https://vcc.tech/~huihuang)
 ## [Project Page](https://jingyuanyy.github.io/) | [EmoSet-118K](https://jingyuanyy.github.io/) | [EmoSet-3.3M](https://jingyuanyy.github.io/) | [Paper](https://arxiv.org/pdf/2307.07961.pdf) | [Supp](https://arxiv.org/pdf/2307.07961.pdf)
 
-##
+## Abstract
 
-
+![Comparison image](./images/teaser3-01.jpg)
 
 ## File Structure
 
