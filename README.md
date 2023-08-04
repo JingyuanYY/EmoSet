@@ -4,7 +4,7 @@
 
 We propose a large-scale visual emotion dataset with rich attributes, named EmoSet. With 3.3 million images in total (EmoSet-3.3M), 118,102 of these images are carefully labeled with machines and human annotators (EmoSet-118K). EmoSet is labeled with 8 emotion categories (amusement, anger, awe, contentment, disgust, excitement, fear, and sadness) in Mikels' emotion model and 6 proposed emotion attributes (brightness, colorfulness, scene type, object class, facial expression, and human action). We believe EmoSet will bring some key insights and encourage further research in visual emotion analysis and understanding.
 
-### [Project Page](https://jingyuanyy.github.io/) | [EmoSet-118K](https://jingyuanyy.github.io/) | [EmoSet-3.3M](https://jingyuanyy.github.io/) | [Paper](https://arxiv.org/pdf/2307.07961v2.pdf) | [Supp](https://arxiv.org/pdf/2307.07961.pdf)
+### [Project Page](https://vcc.tech/EmoSet) | [EmoSet-118K](https://www.dropbox.com/scl/fi/myue506itjfc06m7svdw6/EmoSet-118K.zip?dl=0&rlkey=7f3oyjkr6zyndf0gau7t140rv) | [EmoSet-3.3M](https://www.dropbox.com/scl/fo/rfg7vk33lwt46clxd23wh/h?rlkey=cpdvinfufzv9pv8q9tuezmx2u&dl=0) | [Paper](https://arxiv.org/pdf/2307.07961v2.pdf) | [Supp](https://vcc-szu-cdn.s3.ap-southeast-1.amazonaws.com/EmoSet-supp.pdf)
 ![Teaser image](./image/teaser3-01.jpg)
 
 ## File Structure
